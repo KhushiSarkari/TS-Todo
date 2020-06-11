@@ -1,0 +1,29 @@
+.container{
+    box-sizing: border-box;
+    width:50%;
+    margin: auto;
+
+}
+.todo {
+    white-space: nowrap;
+}
+
+button{
+    display: inline-block;
+    /* background: transparent; */
+    /* border: none; */
+    margin-left:15px;
+}
+h2{
+    font-size: 30px;
+    margin-left: 40%;
+    width: 70%;
+}
+input{
+    /* border: transparent; */
+    font-size: 12px;
+    width: 70%;
+    display: inline block;
+    height: 25px;
+    
+}
